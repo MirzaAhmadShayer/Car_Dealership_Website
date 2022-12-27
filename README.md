@@ -5,6 +5,16 @@ Hovering over many buttons changes their colors.
 
 Made in HTML-CSS.
 
-![Screenshot (65)](https://user-images.githubusercontent.com/75902819/209722319-5a965f40-9598-47ae-9cc5-a7d8de7fa97e.png)
-![Screenshot (66)](https://user-images.githubusercontent.com/75902819/209722355-e787aec0-78f1-4e91-90f3-56366c9d5375.png)
-![Screenshot (67)](https://user-images.githubusercontent.com/75902819/209722384-a1547c3f-e042-48a9-9cdc-c97a55317a3c.png)
+![Screenshot (68)](https://user-images.githubusercontent.com/75902819/209722748-754e6ab1-7bb5-4f84-b62c-1a1037588c8f.png)
+
+![Screenshot (69)](https://user-images.githubusercontent.com/75902819/209722771-d336d5de-a6ba-45f7-a178-f3870819fec4.png)
+
+![Screenshot (70)](https://user-images.githubusercontent.com/75902819/209722805-40fe7702-2d58-44c9-91c2-167df438cb70.png)
+
+![Screenshot (71)](https://user-images.githubusercontent.com/75902819/209722841-c6268e23-50e3-41c1-a7d7-44f2034e96b9.png)
+
+![Screenshot (72)](https://user-images.githubusercontent.com/75902819/209722860-6686520d-47b9-47ad-82a5-bd381484d6b6.png)
+
+![Screenshot (73)](https://user-images.githubusercontent.com/75902819/209722881-1eea4f21-a6af-43cd-9b89-a1e404508150.png)
+
+![Screenshot (74)](https://user-images.githubusercontent.com/75902819/209722922-59bf4850-bb54-4d22-a890-ada93c402059.png)
