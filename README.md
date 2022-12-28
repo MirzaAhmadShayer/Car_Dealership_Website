@@ -1,6 +1,6 @@
 # Car_Dealership_Website
 
-My first HTML-CSS project. A car dealership website consisting of 2 menus and many buttons along with a very captivaing visual style.
+My first HTML-CSS project. A car dealership website consisting of 2 menus and many buttons along with a very captivating visual style.
 Hovering over many buttons changes their colors.
 
 Made in HTML-CSS.
